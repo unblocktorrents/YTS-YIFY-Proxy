@@ -10,11 +10,13 @@ We manually check all links to make sure they are up and working properly. Are y
 
 - https://yts.torrentbay.net
 - https://yts.torrentsbay.org
+- https://yts.ninjaproxy1.com
 - https://yts.abcproxy.org
 
 More proxy sites
 
 - https://torrentbay.net
+- https://ninjaproxy1.com
 
 If you intend to hide your browsing history and hide your online identity from ISPs, you can use a VPN service in conjunction with these proxy / mirror sites.
 
