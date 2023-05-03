@@ -1,9 +1,9 @@
 {
-	"name": "unblocktorrents/php-proxy",
+	"name": "yts-yify-proxy/php-proxy",
 	"type": "library",
 	"keywords": ["php proxy", "proxy script", "php web proxy", "web proxy", "php proxy script"],
 	"license": "MIT",
-	"homepage": "https://torrentbay.to/",
+	"homepage": "https://yts.torrentbay.net/",
 	"require": {
 		"ext-curl": "*"
 	},
