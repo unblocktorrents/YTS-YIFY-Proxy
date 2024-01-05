@@ -20,6 +20,7 @@ More proxy sites
 
 If you intend to hide your browsing history and hide your online identity from ISPs, you can use a VPN service in conjunction with these proxy / mirror sites.
 
+Please note that torrenting without a VPN is a bit risky as you may end up handing over your personal information to the ISPs.
 
 # Why should we use YTS proxies and mirrors?
 If you try to access the [YTS Proxy](https://wesharebytes.com/yts-review-proxy-list/) server through our link, it is 100% secure and links that cannot be accessed through Google can be used by our website. One of the most important things is that your IP address will also be hidden so no one will be able to track it and it will be completely safe on the internet.
