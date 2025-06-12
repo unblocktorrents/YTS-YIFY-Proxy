@@ -9,6 +9,7 @@ Proxy sites often act as an intermediary to provide you with an anonymous bridge
 We manually check all links to make sure they are up and working properly. Are you ready to find the best working YTS proxy and Yify mirror sites to use to access YTS even if it doesn't work in your country? Without further ado, let's get started.
 
 - https://yts.torrentbay.st
+- https://yts.torrentbay.to
 - https://yts.torrentsbay.org
 - https://yts.ninjaproxy1.com
 - https://yts.piratic.org
@@ -16,6 +17,7 @@ We manually check all links to make sure they are up and working properly. Are y
 More proxy sites
 
 - https://torrentbay.st
+- https://torrentbay.to
 - https://ninjaproxy1.com
 - https://piratic.org
 
