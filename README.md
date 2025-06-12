@@ -1,4 +1,4 @@
-# YTS Proxy - 100% Working YTS Mirror Sites 2024
+# YTS Proxy - 100% Working YTS Mirror Sites 2025
 Yify Torrents or YTS is considered to be one of the best torrent sites for downloading movies, music, and subtitles smoothly. The website has made a name for itself in the torrent niche with its clean and easily searchable website covering a large number of torrent files.
 
 
@@ -11,12 +11,13 @@ We manually check all links to make sure they are up and working properly. Are y
 - https://yts.torrentbay.st
 - https://yts.torrentsbay.org
 - https://yts.ninjaproxy1.com
-- https://yts.abcproxy.org
+- https://yts.piratic.org
 
 More proxy sites
 
 - https://torrentbay.st
 - https://ninjaproxy1.com
+- https://piratic.org
 
 If you intend to hide your browsing history and hide your online identity from ISPs, you can use a VPN service in conjunction with these proxy / mirror sites.
 
